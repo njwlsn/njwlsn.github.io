@@ -10,10 +10,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Graduated from LMU Munich (MSc) and Warwick (BSc), short-term study in Moscow, Shanghai, and Amsterdam.
   <br><br>
-[<a href="https://github.com/njwsn/njwsn.github.io/raw/1ea4377d85e01a3f172d0a794b297beaf5639dbd/assets/NW_CV_May24.pdf">CV</a>]
-[<a href="https://twitter.com/nj_wsn">Twitter</a>] [<a href="https://www.linkedin.com/in/njwsn/">LinkedIn</a>]
-[<a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4891811">SSRN</a>]
-[<a href="https://scholar.google.com/citations?user=Nj_UmX0AAAAJ&hl=en">Google Scholar</a>]       
+  [<a href="https://github.com/njwsn/njwsn.github.io/raw/1ea4377d85e01a3f172d0a794b297beaf5639dbd/assets/NW_CV_May24.pdf">CV</a>]
+  [<a href="https://twitter.com/nj_wsn">Twitter</a>] [<a href="https://www.linkedin.com/in/njwsn/">LinkedIn</a>]
+  [<a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4891811">SSRN</a>]
+  [<a href="https://scholar.google.com/citations?user=Nj_UmX0AAAAJ&hl=en">Google Scholar</a>]       
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
