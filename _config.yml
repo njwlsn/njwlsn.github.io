@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
+title: Nicholas J. Wilson # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Economist and research consultant 
   <br><br>
-  Second description 
+  Research Manager @ Forcier Consulting, South Sudan; formerly UNDP Kenya, OC&C London
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/njwsn/">LinkedIn</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
