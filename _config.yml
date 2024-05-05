@@ -1,17 +1,26 @@
-title: Nicholas J. Wilson # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description:
-  <br><br>
+title: Nicholas J. Wilson
+
+logo: "/images/logo.png?raw=true"
+
+description: >
+  <p>
   Economist and research consultant, studying development and political economy in Africa and the Middle East.
-  <br><br>
+  </p>
+
+  <p>
   Focus on fragility: understanding norms, beliefs, attitudes, and social institutions that promote or preclude stability. 
-  <br><br>
+  </p>
+
+  <p>
   RM @ Forcier Consulting, South Sudan. Formerly UNDP Kenya, OC&C London. MSc LMU Munich, BSc (hons) Warwick.
-  <br><br>
+  </p>
+
+  <p>
   [<a href="/pages/contact-me">Contact</a>]
   [<a href="https://njwsn.github.io/assets/NW_CV_May24.pdf">CV</a>]
   [<a href="https://twitter.com/nj_wsn">X</a>] [<a href="https://www.linkedin.com/in/njwsn/">LinkedIn</a>]
   [<a href="https://scholar.google.com/citations?user=Nj_UmX0AAAAJ&hl=en">GScholar</a>]       
+  </p>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
