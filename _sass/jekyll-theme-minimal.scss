@@ -274,18 +274,3 @@ footer {
     color:#444;
   }
 }
-
-
-.fade-in {
-    opacity: 0;
-}
-
-/* Transition */
-.fade-in {
-    transition: opacity 0.5s ease;
-}
-
-/* Show on fade-in */
-.fade-in.show {
-    opacity: 1;
-}
