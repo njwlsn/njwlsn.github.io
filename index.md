@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-## [Drug Policy and Innovation <small><i>(as Research Assistant)</i></small>](/pages/drug-policy-innovation)
+## [Drug Policy and Innovation](/pages/drug-policy-innovation) <small><i>(as Research Assistant)</i></small>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
