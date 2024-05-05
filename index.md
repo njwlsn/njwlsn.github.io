@@ -1,12 +1,5 @@
 # Selected Research Projects
 
-
-
-
-<small>Note: The project pictures below are produced using generative AI and are provided for illustrative purposes only.</small>
-
-# Selected Research Projects
-
 ## [Land Reform in Kenya](/pages/land-reform-kenya)
 <a href="https://njwsn.github.io/pages/land-reform-kenya"> <img src="images/land-reform-kenya-sd.png?raw=true"/> </a>
 
@@ -19,4 +12,4 @@
 <a href="https://njwsn.github.io/pages/drug-policy-innovation"> <img src="images/drugs-procurement-sd.png?raw=true"/> </a>
 
 ---
-
+<small><i>Note: The project pictures above are produced using generative AI and are provided for illustrative purposes only.</i></small>
