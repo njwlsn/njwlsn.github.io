@@ -1,11 +1,11 @@
 # Selected Research Projects
 
 ## [Land Reform in Kenya](/pages/land-reform-kenya)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<a href="https://njwsn.github.io/pages/land-reform-kenya"> <img src="images/land-reform-kenya-sd.png?raw=true"/> </a>
 
 ---
 ## [Education in South Sudan](/pages/education-south-sudan)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<a href="https://njwsn.github.io/pages/education-south-sudan"> <img src="images/education-ss-sd.png?raw=true"/> </a>
 
 ---
 ## [Drug Policy and Innovation](/pages/drug-policy-innovation) <small><i>(as Research Assistant)</i></small>
