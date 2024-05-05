@@ -111,6 +111,10 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+.half-line-break {
+    line-height: 0.5;
+}
+
 ul.downloads {
   list-style:none;
   height:40px;
