@@ -12,4 +12,4 @@
 <a href="https://njwsn.github.io/pages/drug-policy-innovation"> <img src="images/drugs-procurement-sd.png?raw=true"/> </a>
 
 ---
-<small><i>Note: The project pictures above are produced using <a href="https://beta.dreamstudio.ai/generate">generative AI</a> and are provided for illustrative purposes only.</i></small>
+<small><i>Note: The pictures above are produced using <a href="https://beta.dreamstudio.ai/generate">generative AI</a> and are shown for illustrative purposes only.</i></small>
