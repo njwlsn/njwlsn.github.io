@@ -9,7 +9,7 @@
 
 ---
 ## [Drug Policy and Innovation](/pages/drug-policy-innovation) <small><i>(as Research Assistant)</i></small>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/drugs-procurement-sd.png?raw=true"/>
 
 ---
 
