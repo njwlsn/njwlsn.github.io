@@ -1,13 +1,6 @@
-
-sample
-
----
+# Contact me
 
 <html>
-<head>
-  <title>Contact me</title>
-</head>
-
 <body>
 <form method="post" action="https://forms.un-static.com/forms/23d6a7a96e7102162e2bec3daf4c24226ddf31b3">
   <div class="form-group row">
@@ -49,3 +42,5 @@ sample
 </div>
 </body>
 </html>
+
+---
