@@ -1,5 +1,5 @@
-## Research ##
-# Health Policy and Innovation  <small><i>(as Research Assistant)</i></small> #
+# Research #
+## Health Policy and Innovation  <small><i>(as Research Assistant)</i></small> ##
 <a href="https://njwsn.github.io/pages/drug-policy-innovation"> <img src="images/drugs-procurement-sd.png"/> </a>
 
 During my MSc studies I worked as a Research Assistant to <a href="https://www.lucyxiaoluwang.com/">Lucy Xiaolu Wang</a>, first at the Max Planck Institute for Innovation and Competition and later at the University of Massachussetts Amherst. Prof. Wang's research focuses on the economics of innovation and digitization in healthcare.
