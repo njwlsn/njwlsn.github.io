@@ -8,7 +8,7 @@
 <a href="https://njwsn.github.io/pages/education-south-sudan"> <img src="pages/images/education-ss-sd.png?raw=true"/> </a>
 
 ---
-## [Drug Policy and Innovation](/pages/drug-policy-innovation) <small><i>(as Research Assistant)</i></small>
+## [Health Policy and Innovation](/pages/drug-policy-innovation) <small><i>(as Research Assistant)</i></small>
 <a href="https://njwsn.github.io/pages/drug-policy-innovation"> <img src="pages/images/drugs-procurement-sd.png?raw=true"/> </a>
 
 ---
