@@ -1,4 +1,4 @@
-# Research #
+# Selected Research Projects #
 ## Health Policy and Innovation  <small><i>(as Research Assistant)</i></small> ##
 <a href="https://njwsn.github.io/pages/drug-policy-innovation"> <img src="images/drugs-procurement-sd.png"/> </a>
 
@@ -20,6 +20,7 @@ Media: <a href="https://twitter.com/LucyXiaolu_Wang/status/1536343474949083139">
 <a href="https://www.marijuanamoment.net/doj-to-address-cannabis-in-days-ahead-ag-says-newsletter-june-17-2022/">Marijuana Moment</a> |
 <a href="https://www.mmjdaily.com/article/9438717/us-new-study-examines-differing-state-approaches-to-cannabis-licensing/">MMJDaily</a> | 
 <a href="https://www.benzinga.com/markets/cannabis/22/06/27834377/a-new-study-analyzes-u-s-state-approaches-to-cannabis-licensing">Benzinga</a> 
+
 
 _Acknowledged as providing research assistance_
 
