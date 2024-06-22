@@ -14,7 +14,7 @@ Download: <a href="https://doi.org/10.1016/j.drugpo.2022.103755">IJDP</a> |
 <a href="https://www.lucyxiaoluwang.com/_files/ugd/b7b79b_d2b41812a8b049a09520f1434c5b5711.pdf">slides</a> |
 <a href="https://github.com/LucyXiaoluWang/US_state_cannabis_licensing">data</a>
 
-Download: <a href="https://twitter.com/LucyXiaolu_Wang/status/1536343474949083139">X</a> |
+Media: <a href="https://twitter.com/LucyXiaolu_Wang/status/1536343474949083139">X</a> |
 <a href="https://www.umass.edu/news/article/new-study-umass-amherst-researcher-examines-differing-state-approaches-cannabis">news@UMass</a> | 
 <a href="https://www.marijuanamoment.net/doj-to-address-cannabis-in-days-ahead-ag-says-newsletter-june-17-2022/">Marijuana Moment</a> |
 <a href="https://www.mmjdaily.com/article/9438717/us-new-study-examines-differing-state-approaches-to-cannabis-licensing/">MMJDaily</a> | 
