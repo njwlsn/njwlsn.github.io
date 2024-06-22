@@ -1,4 +1,5 @@
-## Research: Health Policy and Innovation  <small><i>(as Research Assistant)</i></small>
+## Research ##
+# Health Policy and Innovation  <small><i>(as Research Assistant)</i></small> #
 <a href="https://njwsn.github.io/pages/drug-policy-innovation"> <img src="images/drugs-procurement-sd.png"/> </a>
 
 During my MSc studies I worked as a Research Assistant to <a href="https://www.lucyxiaoluwang.com/">Lucy Xiaolu Wang</a>, first at the Max Planck Institute for Innovation and Competition and later at the University of Massachussetts Amherst. Prof. Wang's research focuses on the economics of innovation and digitization in healthcare.
@@ -8,9 +9,9 @@ _As co-author_
 Wang, L. X., & Wilson, N. J. (2022). US State approaches to cannabis licensing. International Journal of Drug Policy, 106, 103755.
 Media: 
 
-Download: <a href="https://doi.org/10.1016/j.drugpo.2022.103755">IJDP</a> | 
-<a href="https://ssrn.com/abstract=4125055">MPI</a> |
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3953347">SSRN</a> |
+Download: <a href="https://doi.org/10.1016/j.drugpo.2022.103755">IJDP article</a> | 
+<a href="https://ssrn.com/abstract=4125055">MPI preprint</a> |
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3953347">SSRN preprint</a> |
 <a href="https://www.lucyxiaoluwang.com/_files/ugd/b7b79b_d2b41812a8b049a09520f1434c5b5711.pdf">slides</a> |
 <a href="https://github.com/LucyXiaoluWang/US_state_cannabis_licensing">data</a>
 
