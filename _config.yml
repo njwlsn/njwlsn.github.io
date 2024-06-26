@@ -1,6 +1,6 @@
 title: <p align="center"> Nicholas J. Wilson </p>
 
-logo: <img src="/pages/images/logo.png?raw=true" alt="Logo" style="width: 1%; height: auto;">
+logo: "/pages/images/logo.png?raw=true"
 
 description: >
   <p align="center">
