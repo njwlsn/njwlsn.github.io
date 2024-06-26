@@ -7,7 +7,6 @@ During my MSc studies I worked as a Research Assistant to <a href="https://www.l
 _As co-author_
 
 Wang, L. X., & Wilson, N. J. (2022). US State approaches to cannabis licensing. International Journal of Drug Policy, 106, 103755.
-Media: 
 
 Download: <a href="https://doi.org/10.1016/j.drugpo.2022.103755">IJDP article</a> | 
 <a href="https://ssrn.com/abstract=4125055">MPI preprint</a> |
