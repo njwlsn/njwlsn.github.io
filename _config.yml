@@ -4,6 +4,13 @@ logo: "/pages/images/logo.png?raw=true"
 
 description: >
   <p align="center">
+  <a href="/pages/contact-me">Contact</a> | 
+  <a href="https://njwsn.github.io/assets/NW_CV_May24.pdf">CV</a> | 
+  <a href="https://twitter.com/nj_wsn">X</a>] [<a href="https://www.linkedin.com/in/njwsn/">LinkedIn</a> | 
+  <a href="https://scholar.google.com/citations?user=Nj_UmX0AAAAJ&hl=en">GScholar</a>
+  </p>
+  
+  <p align="center">
   Economist and researcher studying development and political economy, mostly in East Africa.
   </p>
 
@@ -13,13 +20,6 @@ description: >
 
   <p align="center">
   RM @ Forcier Consulting, South Sudan. Formerly UNDP Kenya, OC&C London. MSc LMU Munich, BSc (Hons) Warwick.
-  </p>
-
-  <p align="center">
-  [<a href="/pages/contact-me">Contact</a>]
-  [<a href="https://njwsn.github.io/assets/NW_CV_May24.pdf">CV</a>]
-  [<a href="https://twitter.com/nj_wsn">X</a>] [<a href="https://www.linkedin.com/in/njwsn/">LinkedIn</a>]
-  [<a href="https://scholar.google.com/citations?user=Nj_UmX0AAAAJ&hl=en">GScholar</a>]       
   </p>
   
 remote_theme: pages-themes/minimal@v0.2.0
