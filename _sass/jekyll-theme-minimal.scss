@@ -107,7 +107,7 @@ img {
 header {
   width:350px;
   position: fixed;
-  left: 80px; 
+  left: 100px; 
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -177,7 +177,8 @@ strong {
 
 section {
   width:600px;
-  float:right;
+  position:fixed;
+  right: 100px;
   padding-bottom:50px;
 }
 
