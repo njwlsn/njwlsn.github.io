@@ -4,7 +4,9 @@
 
 During my MSc studies I worked as a Research Assistant to <a href="https://www.lucyxiaoluwang.com/">Lucy Xiaolu Wang</a>, first at the Max Planck Institute for Innovation and Competition and later at the University of Massachusetts Amherst. Prof. Wang's research focuses on the economics of innovation and digitization in healthcare, covering a broad range of different topics.
 
-_As co-author_
+_Publications_
+
+_(As co-author)_
 
 Wang, L. X., & Wilson, N. J. (2022). US State approaches to cannabis licensing. International Journal of Drug Policy, 106, 103755.
 
@@ -21,7 +23,7 @@ Media: <a href="https://twitter.com/LucyXiaolu_Wang/status/1536343474949083139">
 <a href="https://www.benzinga.com/markets/cannabis/22/06/27834377/a-new-study-analyzes-u-s-state-approaches-to-cannabis-licensing">Benzinga</a> 
 
 
-_Acknowledged as providing research assistance_
+_(Acknowledged as providing research assistance)_
 
 Kreyer, A. C., & Wang, L. X. (2022). Collaborating neuroscience online: The case of the Human Brain Project forum. Plos one, 17(12), e0278402.
 
