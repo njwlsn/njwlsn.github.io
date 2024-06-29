@@ -4,12 +4,12 @@ logo: "/pages/images/logo_300hdr.png?raw=true"
 
 description: >
   <p align="center">
-  <a href="/pages/contact-me"><i class="fas fa-fw fa-envelope-square"></a> | 
-  <a href="https://njwsn.github.io/assets/NW_CV_May24.pdf"><i class="fa-solid fa-cutlery"></a> | 
-  <a href="https://x.com/nj_wsn"><i class="fab fa-fw fa-x-twitter-square"></a> | 
-  <a href="https://www.linkedin.com/in/njwsn/"><i class="fa-fw fa-linkedin-square"></a> | 
-  <a href="https://orcid.org/0009-0006-3680-2015"><i class="fa-fw fab fa-orcid"></a> | 
-  <a href="https://scholar.google.com/citations?user=Nj_UmX0AAAAJ&hl=en"><i class="ai ai-google-scholar-square"></a>
+  <a href="/pages/contact-me"><i class="fa-solid fa-envelope"></i></i></a> | 
+  <a href="https://njwsn.github.io/assets/NW_CV_May24.pdf"><i class="fa-solid fa-circle-info"></i></a> | 
+  <a href="https://x.com/nj_wsn"><i class="fa-brands fa-square-x-twitter"></i></a> | 
+  <a href="https://www.linkedin.com/in/njwsn/"><i class="fa-brands fa-linkedin"></i></a> | 
+  <a href="https://orcid.org/0009-0006-3680-2015"><i class="fa-brands fa-orcid"></i></a> | 
+  <a href="https://scholar.google.com/citations?user=Nj_UmX0AAAAJ&hl=en"><i class="fa-brands fa-google-scholar"></i></a>
   </p>
   
   <p align="center">
@@ -27,3 +27,4 @@ description: >
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
