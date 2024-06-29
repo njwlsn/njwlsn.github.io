@@ -4,11 +4,12 @@ logo: "/pages/images/logo_300hdr.png?raw=true"
 
 description: >
   <p align="center">
-  <a href="/pages/contact-me">Email</a> | 
-  <a href="https://njwsn.github.io/assets/NW_CV_May24.pdf">CV</a> | 
-  <a href="https://twitter.com/nj_wsn">X</a> | 
-  <a href="https://www.linkedin.com/in/njwsn/">LinkedIn</a> | 
-  <a href="https://scholar.google.com/citations?user=Nj_UmX0AAAAJ&hl=en">GScholar</a>
+  <a href="/pages/contact-me"><i class="fas fa-fw fa-envelope-square"></a> | 
+  <a href="https://njwsn.github.io/assets/NW_CV_May24.pdf"><i class="fa-solid fa-cutlery"></a> | 
+  <a href="https://x.com/nj_wsn"><i class="fab fa-fw fa-x-twitter-square"></a> | 
+  <a href="https://www.linkedin.com/in/njwsn/"><i class="fa-fw fa-linkedin-square"></a> | 
+  <a href="https://orcid.org/0009-0006-3680-2015"><i class="fa-fw fab fa-orcid"></a> | 
+  <a href="https://scholar.google.com/citations?user=Nj_UmX0AAAAJ&hl=en"><i class="ai ai-google-scholar-square"></a>
   </p>
   
   <p align="center">
@@ -21,14 +22,6 @@ description: >
 
   <p align="center">
   Extensive field experience in Kenya and South Sudan. Graduated from LMU Munich (MSc) and Warwick (BSc).
-  </p>
-
-  <p align="center">
-  <a href="/pages/contact-me"><i class="fa-solid fa-cutlery"></i></a> | 
-  <a href="https://njwsn.github.io/assets/NW_CV_May24.pdf">CV</a> | 
-  <a href="https://twitter.com/nj_wsn">X</a> | 
-  <a href="https://www.linkedin.com/in/njwsn/">LinkedIn</a> | 
-  <a href="https://scholar.google.com/citations?user=Nj_UmX0AAAAJ&hl=en">GScholar</a>
   </p>
   
 remote_theme: pages-themes/minimal@v0.2.0
