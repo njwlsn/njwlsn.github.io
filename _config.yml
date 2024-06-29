@@ -10,6 +10,27 @@ description: >
   <a href="https://www.linkedin.com/in/njwsn/">LinkedIn</a> | 
   <a href="https://scholar.google.com/citations?user=Nj_UmX0AAAAJ&hl=en">GScholar</a>
   </p>
+
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:nj.wilson@outlook.com"
+    - label: "CV"
+      icon: "far fa-fw fa-info-square"
+      # url: "https://njwsn.github.io/assets/NW_CV_May24.pdf"
+    - label: "X"
+      icon: "fab fa-fw fa-x-twitter-square"
+      # url: "https://x.com/nj_wsn"
+    - label: "LinkedIn"
+      icon: "fa-fw fa-linkedin-square"
+      # url: "https://www.linkedin.com/in/njwsn/"
+    - label: "ORCID"
+      icon: "fa-fw fab fa-orcid"
+      # url: "https://orcid.org/0009-0006-3680-2015"
+    - label: "GScholar"
+      icon: "ai ai-google-scholar-square"
+      # url: "https://scholar.google.com/citations?user=Nj_UmX0AAAAJ&hl=en"
+
   
   <p align="center">
   Economist researching development and political economy across Africa and the Middle East.
