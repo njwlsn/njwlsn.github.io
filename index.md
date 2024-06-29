@@ -1,4 +1,4 @@
-# Selected Research Projects
+# Research Projects
 
 ## [Education in South Sudan](/pages/education-south-sudan)
 <a href="https://njwsn.github.io/pages/education-south-sudan"> <img src="assets/images/education-ss-sd-1344-600.png?raw=true"/> </a>
