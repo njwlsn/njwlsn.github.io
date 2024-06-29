@@ -1,6 +1,6 @@
 # Selected Research Projects #
 ## Health Policy and Innovation  <small><i>(as Research Assistant)</i></small> ##
-<a href="https://njwsn.github.io/pages/health-policy-innovation"> <img href="https://njwsn.github.io/assets/images/drugs-procurement-sd-1344-600.png"/> </a>
+<a href="https://njwsn.github.io/pages/health-policy-innovation"> <img src="https://njwsn.github.io/assets/images/drugs-procurement-sd-1344-600.png"/> </a>
 
 During my MSc studies I worked as a Research Assistant to <a href="https://www.lucyxiaoluwang.com/">Lucy Xiaolu Wang</a>, first at the Max Planck Institute for Innovation and Competition and later at the University of Massachusetts Amherst. Prof. Wang's research focuses on the economics of innovation and digitization in healthcare, covering a broad range of different topics.
 
