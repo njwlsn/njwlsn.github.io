@@ -11,7 +11,7 @@ description: >
   <a href="https://scholar.google.com/citations?user=Nj_UmX0AAAAJ&hl=en">GScholar</a>
   </p>
 
-  links:
+links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:nj.wilson@outlook.com"
