@@ -24,12 +24,12 @@ _Wang, L. X., & Wilson, N. J. (2022). US State approaches to cannabis licensing.
 **Acknowledged as providing research assistance**
 
 <b>Kreyer, A. C., & Wang, L. X. (2022). Collaborating neuroscience online: The case of the Human Brain Project forum. Plos one, 17(12), e0278402.</b><br>
-[![](https://img.shields.io/badge/PLOS-article-4285F4?logo=pluscodes)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278402)&nbsp;
+<u>Download:</u> [![](https://img.shields.io/badge/PLOS-article-4285F4?logo=pluscodes)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278402)&nbsp;
 [![](https://img.shields.io/badge/SSRN-preprint-154881?logo=ssrn)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4126273)
 
 <b>Wang, L. X., & Chan, N. W. (2023). Legalization and Innovation in the Cannabis Market. Available at SSRN 4373615.</b><br>
-[![](https://img.shields.io/badge/SSRN-preprint-154881?logo=ssrn)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4373615)
+<u>Download:</u> [![](https://img.shields.io/badge/SSRN-preprint-154881?logo=ssrn)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4373615)
 
 <b>Wang, L. X., & Zahur, N. B. (2023). Procurement institutions and essential drug supply in low and middle-income countries. Available at SSRN 3926761.</b><br>
-[![](https://img.shields.io/badge/SSRN-preprint-154881?logo=ssrn)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3926761)
+<u>Download:</u> [![](https://img.shields.io/badge/SSRN-preprint-154881?logo=ssrn)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3926761)
 
