@@ -10,10 +10,10 @@ _(As co-author)_
 
 **Wang, L. X., & Wilson, N. J. (2022). US State approaches to cannabis licensing. International Journal of Drug Policy, 106, 103755.
 **
-<u>Download:</u> [![](https://img.shields.io/badge/IJDP-article-FF6C00?logo=Elsevier)](https://doi.org/10.1016/j.drugpo.2022.103755) 
-[![](https://img.shields.io/badge/MPI-preprint-006C66?logo=maxplanckgesellschaft)](https://ssrn.com/abstract=4125055) 
-[![](https://img.shields.io/badge/SSRN-preprint-154881?logo=ssrn)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=)
-[![](https://img.shields.io/badge/overleaf-slides-47A141?logo=ssrn)](https://www.lucyxiaoluwang.com/_files/ugd/b7b79b_d2b41812a8b049a09520f1434c5b5711.pdf)
+<u>Download:</u> [![](https://img.shields.io/badge/IJDP-article-FF6C00?logo=Elsevier)](https://doi.org/10.1016/j.drugpo.2022.103755)&nbsp; 
+[![](https://img.shields.io/badge/MPI-preprint-006C66?logo=maxplanckgesellschaft)](https://ssrn.com/abstract=4125055)&nbsp; 
+[![](https://img.shields.io/badge/SSRN-preprint-154881?logo=ssrn)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=)&nbsp;
+[![](https://img.shields.io/badge/Overleaf-slides-47A141?logo=overleaf)](https://www.lucyxiaoluwang.com/_files/ugd/b7b79b_d2b41812a8b049a09520f1434c5b5711.pdf)
 
 <u>Media:</u> <a href="https://twitter.com/LucyXiaolu_Wang/status/1536343474949083139">X</a> |
 <a href="https://www.umass.edu/news/article/new-study-umass-amherst-researcher-examines-differing-state-approaches-cannabis">news@UMass</a> | 
@@ -26,7 +26,7 @@ _(Acknowledged as providing research assistance)_
 
 **Kreyer, A. C., & Wang, L. X. (2022). Collaborating neuroscience online: The case of the Human Brain Project forum. Plos one, 17(12), e0278402.
 **
-[![](https://img.shields.io/badge/pluscodes-article-4285F4?logo=ssrn)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278402)
+[![](https://img.shields.io/badge/PLOS-article-4285F4?logo=pluscodes)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278402)&nbsp;
 [![](https://img.shields.io/badge/SSRN-preprint-154881?logo=ssrn)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4126273)
 
 **Wang, L. X., & Chan, N. W. (2023). Legalization and Innovation in the Cannabis Market. Available at SSRN 4373615.
