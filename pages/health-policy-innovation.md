@@ -6,9 +6,9 @@ During my MSc studies I worked as a Research Assistant to <a href="https://www.l
 
 ### Publications ###
 
-_(As co-author)_
+**As co-author**
 
-<b>Wang, L. X., & Wilson, N. J. (2022). US State approaches to cannabis licensing. International Journal of Drug Policy, 106, 103755.</b><br>
+_Wang, L. X., & Wilson, N. J. (2022). US State approaches to cannabis licensing. International Journal of Drug Policy, 106, 103755._ <br>
 <u>Download:</u> [![](https://img.shields.io/badge/IJDP-article-FF6C00?logo=Elsevier)](https://doi.org/10.1016/j.drugpo.2022.103755)&nbsp; 
 [![](https://img.shields.io/badge/MPI-preprint-006C66?logo=maxplanckgesellschaft)](https://ssrn.com/abstract=4125055)&nbsp; 
 [![](https://img.shields.io/badge/SSRN-preprint-154881?logo=ssrn)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=)&nbsp;
@@ -21,7 +21,7 @@ _(As co-author)_
 <a href="https://www.benzinga.com/markets/cannabis/22/06/27834377/a-new-study-analyzes-u-s-state-approaches-to-cannabis-licensing">Benzinga</a> 
 
 
-_(Acknowledged as providing research assistance)_
+**Acknowledged as providing research assistance**
 
 <b>Kreyer, A. C., & Wang, L. X. (2022). Collaborating neuroscience online: The case of the Human Brain Project forum. Plos one, 17(12), e0278402.</b><br>
 [![](https://img.shields.io/badge/PLOS-article-4285F4?logo=pluscodes)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278402)&nbsp;
