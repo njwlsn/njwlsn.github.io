@@ -10,7 +10,7 @@ _(As co-author)_
 
 Wang, L. X., & Wilson, N. J. (2022). US State approaches to cannabis licensing. International Journal of Drug Policy, 106, 103755.
 
-Download: [![]([link-to-our-badge](https://img.shields.io/badge/IJDP-article-FF6C00?logo=Elsevier))]([link-to-our-project](https://doi.org/10.1016/j.drugpo.2022.103755)) | 
+Download: [![](https://img.shields.io/badge/IJDP-article-FF6C00?logo=Elsevier)](https://doi.org/10.1016/j.drugpo.2022.103755) | 
 <a href="https://ssrn.com/abstract=4125055">MPI preprint</a> |
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3953347">SSRN preprint</a> |
 <a href="https://www.lucyxiaoluwang.com/_files/ugd/b7b79b_d2b41812a8b049a09520f1434c5b5711.pdf">slides</a> |
