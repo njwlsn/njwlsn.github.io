@@ -19,8 +19,7 @@ _Wang, L. X., & Wilson, N. J. (2022). US State approaches to cannabis licensing.
 <a href="https://www.marijuanamoment.net/doj-to-address-cannabis-in-days-ahead-ag-says-newsletter-june-17-2022/">Marijuana Moment</a> |
 <a href="https://www.mmjdaily.com/article/9438717/us-new-study-examines-differing-state-approaches-to-cannabis-licensing/">MMJDaily</a> | 
 <a href="https://www.benzinga.com/markets/cannabis/22/06/27834377/a-new-study-analyzes-u-s-state-approaches-to-cannabis-licensing">Benzinga</a> 
-<br>
-<br>
+<br><br><br>
 **Acknowledged as providing research assistance**
 <br><br>
 _Kreyer, A. C., & Wang, L. X. (2022). Collaborating neuroscience online: The case of the Human Brain Project forum. Plos one, 17(12), e0278402._ <br>
