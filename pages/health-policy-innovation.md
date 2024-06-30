@@ -4,12 +4,11 @@
 
 During my MSc studies I worked as a Research Assistant to <a href="https://www.lucyxiaoluwang.com/">Lucy Xiaolu Wang</a>, first at the Max Planck Institute for Innovation and Competition and later at the University of Massachusetts Amherst. Prof. Wang's research focuses on the economics of innovation and digitization in healthcare, covering a broad range of different topics.
 
-_Publications_
+### Publications ###
 
 _(As co-author)_
 
-**Wang, L. X., & Wilson, N. J. (2022). US State approaches to cannabis licensing. International Journal of Drug Policy, 106, 103755.
-**
+<b>Wang, L. X., & Wilson, N. J. (2022). US State approaches to cannabis licensing. International Journal of Drug Policy, 106, 103755.</b><br>
 <u>Download:</u> [![](https://img.shields.io/badge/IJDP-article-FF6C00?logo=Elsevier)](https://doi.org/10.1016/j.drugpo.2022.103755)&nbsp; 
 [![](https://img.shields.io/badge/MPI-preprint-006C66?logo=maxplanckgesellschaft)](https://ssrn.com/abstract=4125055)&nbsp; 
 [![](https://img.shields.io/badge/SSRN-preprint-154881?logo=ssrn)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=)&nbsp;
@@ -24,16 +23,13 @@ _(As co-author)_
 
 _(Acknowledged as providing research assistance)_
 
-**Kreyer, A. C., & Wang, L. X. (2022). Collaborating neuroscience online: The case of the Human Brain Project forum. Plos one, 17(12), e0278402.
-**
+<b>Kreyer, A. C., & Wang, L. X. (2022). Collaborating neuroscience online: The case of the Human Brain Project forum. Plos one, 17(12), e0278402.</b><br>
 [![](https://img.shields.io/badge/PLOS-article-4285F4?logo=pluscodes)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0278402)&nbsp;
 [![](https://img.shields.io/badge/SSRN-preprint-154881?logo=ssrn)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4126273)
 
-**Wang, L. X., & Chan, N. W. (2023). Legalization and Innovation in the Cannabis Market. Available at SSRN 4373615.
-**
+<b>Wang, L. X., & Chan, N. W. (2023). Legalization and Innovation in the Cannabis Market. Available at SSRN 4373615.</b><br>
 [![](https://img.shields.io/badge/SSRN-preprint-154881?logo=ssrn)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4373615)
 
-**Wang, L. X., & Zahur, N. B. (2023). Procurement institutions and essential drug supply in low and middle-income countries. Available at SSRN 3926761.
-**
+<b>Wang, L. X., & Zahur, N. B. (2023). Procurement institutions and essential drug supply in low and middle-income countries. Available at SSRN 3926761.</b><br>
 [![](https://img.shields.io/badge/SSRN-preprint-154881?logo=ssrn)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3926761)
 
