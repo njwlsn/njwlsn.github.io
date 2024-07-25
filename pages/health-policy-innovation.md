@@ -1,4 +1,4 @@
-# Selected Research Projects #
+# Research Projects #
 ## Health Policy and Innovation  <small><i>(as Research Assistant)</i></small> ##
 <a href="https://njwsn.github.io/pages/health-policy-innovation"> <img src="https://njwsn.github.io/assets/images/drugs-procurement-sd-1344-600.png"/> </a>
 <br>
