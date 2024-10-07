@@ -12,6 +12,6 @@ _Wagner-Tsoni, I., Akogun, O., Wilson, N., Bani Ata, M.F., & Dut, K. K. (2025). 
 <br><br>
 _Homunchuk, O., Fortacz, A., Wilson, N., & Kelsall, T. (2024). Political Economy of the South Sudan Education System. Education Research in Conflict and Protracted Crisis (ERICC)._
 <br><br>
-_Wagner-Tsoni, I., Akogun, O., Twalihi, E., Wilson, N., Schots, M., & Dut, K. K. (2024). ERICC: Towards an Evidence-Driven Education in Emergencies Research Agenda for South Sudan. Education Research in Conflict and Protracted Crisis (ERICC)._
+_Wagner-Tsoni, I., Akogun, O., Twalihi, E., Wilson, N., Schots, M., & Dut, K. K. (2024). ERICC: Towards an Evidence-Driven Education in Emergencies Research Agenda for South Sudan. Education Research in Conflict and Protracted Crisis (ERICC). <a href="https://figshare.com/articles/online_resource/ERICC_Working_Paper_Towards_evidence-driven_education_in_emergencies_ERICC_research_agenda_for_South_Sudan/27105616?file=49412566">[figshare]</a>_
 <br><br>
 _Wagner-Tsoni, I., Wilson, N., Schots, M., & Taban, C. (2024). Conflict's Long Shadow: Evidence on Education in Emergencies in South Sudan. Education Research in Conflict and Protracted Crisis (ERICC)._ 
