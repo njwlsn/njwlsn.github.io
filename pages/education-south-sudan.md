@@ -9,7 +9,7 @@ Since the start of 2023, I have managed research conducted in South Sudan by For
 <br><br>
 
 ### Working papers ###
-Wagner-Tsoni, I., Akogun, O., Twalihi, E., Wilson, N., Schots, M., & Dut, K. K. (2024). ERICC: Towards an Evidence-Driven Education in Emergencies Research Agenda for South Sudan. Education Research in Conflict and Protracted Crisis (ERICC). 
+_Wagner-Tsoni, I., Akogun, O., Twalihi, E., Wilson, N., Schots, M., & Dut, K. K. (2024). ERICC: Towards an Evidence-Driven Education in Emergencies Research Agenda for South Sudan. Education Research in Conflict and Protracted Crisis (ERICC)._
 <u>Download:</u> [![](https://img.shields.io/badge/figshare-preprint-556472?logo=figshare)](https://figshare.com/articles/online_resource/ERICC_Working_Paper_Towards_evidence-driven_education_in_emergencies_ERICC_research_agenda_for_South_Sudan/27105616?file=49412566)
 <br><br>
 
