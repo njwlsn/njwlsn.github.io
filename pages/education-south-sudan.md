@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://inee.org/data-evidence/ericc"> <img src="https://njwsn.github.io/assets/images/ericc_full.png" width="600px" height="79px"/> </a>
 </p>
-Since the start of 2023, I have managed research conducted in South Sudan by Forcier Consulting under the <a href="https://inee.org/data-evidence/ericc">Education Research in Conflict and Protracted Crisis (ERICC)</a> programme, coordinated by IRC and funded by FCDO. ERICC is being implemented in 7 countries - Bangladesh, Jordan, Lebanon, Myanmar, Nigeria, South Sudan, Syria - and seeks to identify approaches for improving access, quality, and continuity of education in crisis contexts. Our work in South Sudan comprises an evidence review, a research agenda outline, a data systems review, a political economy analysis, and a pastoralist education study. 
+Since the start of 2023, I have managed research conducted in South Sudan under the <a href="https://inee.org/data-evidence/ericc">Education Research in Conflict and Protracted Crisis (ERICC)</a> programme, coordinated by IRC and funded by FCDO. ERICC is being implemented in 7 countries - Bangladesh, Jordan, Lebanon, Myanmar, Nigeria, South Sudan, Syria - and seeks to identify approaches for improving access, quality, and continuity of education in crisis contexts. Our work in South Sudan comprises an evidence review, a research agenda outline, a data systems review, a political economy analysis, and a pastoralist education study. 
 <br><br>
 
 ### Working papers ###
