@@ -1,16 +1,16 @@
-# Research Projects
+# Research #
 
-## [Education in South Sudan](/pages/education-south-sudan)
+## [Education in South Sudan](/pages/education-south-sudan) ##
 <a href="https://njwsn.github.io/pages/education-south-sudan"> <img src="assets/images/education-ss-sd-1344-600.png?raw=true"/> </a>
 
 ---
 
-## [Land Reform in Kenya](/pages/land-reform-kenya)
+## [Land Reform in Kenya](/pages/land-reform-kenya) ##
 <a href="https://njwsn.github.io/pages/land-reform-kenya"> <img src="assets/images/land-reform-kenya-sd-1344-600.png?raw=true"/> </a>
 
 ---
 
-## [Health Policy and Innovation](/pages/health-policy-innovation) <small><i>(as Research Assistant)</i></small>
+## [Health Policy and Innovation](/pages/health-policy-innovation) <small><i>(as Research Assistant)</i></small> ##
 <a href="https://njwsn.github.io/pages/health-policy-innovation"> <img src="assets/images/drugs-procurement-sd-1344-600.png?raw=true"/> </a>
 
 ---
