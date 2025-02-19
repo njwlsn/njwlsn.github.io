@@ -1,4 +1,4 @@
-# Research Projects #
+# Research #
 ## Land Reform in Kenya ##
 <a href="https://njwsn.github.io/pages/land-reform-kenya"> <img src="https://njwsn.github.io/assets/images/land-reform-kenya-sd-1344-600.png"/> </a>
 <br>
