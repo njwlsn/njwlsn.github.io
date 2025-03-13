@@ -1,3 +1,5 @@
+# [Consulting](/pages/consulting) #
+
 # Research #
 
 ## [Education in South Sudan](/pages/education-south-sudan) ##
