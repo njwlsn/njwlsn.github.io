@@ -9,7 +9,7 @@ Since 2023, I have managed research conducted in South Sudan for the <a href="ht
 <br><br>
 
 ### Working Papers ###
-_Homunchuk, O., Wilson, N., Fortacz, A., & Kelsall, T. (2025). Political Economy of the South Sudan Education System. Education Research in Conflict and Protracted Crisis (ERICC)._
+_Homunchuk, O., Wilson, N., Fortacz, A., & Kelsall, T. (2025). Political Economy of the South Sudan Education System. Education Research in Conflict and Protracted Crisis (ERICC)._ <br>
 <u>Download:</u> [![](https://img.shields.io/badge/figshare-paper-556472?logo=figshare)](https://figshare.com/articles/online_resource/ERICC_Working_Paper_Political_economy_of_education_system_in_coherence_in_South_Sudan/28684181?file=53283110)
 <br><br>
 _Wagner-Tsoni, I., Akogun, O., Twalihi, E., Hussein, T., Wilson, N., Schots, M., & Dut, K. K. (2024). ERICC: Towards an Evidence-Driven Education in Emergencies Research Agenda for South Sudan. Education Research in Conflict and Protracted Crisis (ERICC Working Paper)._ <br>
