@@ -1,6 +1,6 @@
 # Research #
 ## Health Policy and Innovation  <small><i>(as Research Assistant)</i></small> ##
-<a href="https://njwsn.github.io/pages/health-policy-innovation"> <img src="https://njwsn.github.io/assets/images/drugs-procurement-sd-1344-600.png"/> </a>
+<a href="https://njwsn.github.io/pages/health-policy-innovation"> <img src="https://njwsn.github.io/assets/images/drugs-procurement-sd-1344-500.png" style="max-width:100%; height:auto;"/></a>
 <br>
 <p align="center">
 <a href="https://www.ip.mpg.de/en/research/innovation-and-entrepreneurship-research.html"> <img src="https://njwsn.github.io/assets/images/mpi_full.png"  style="max-width:32%; height:auto;"/></a>  &nbsp;&nbsp;&nbsp; <a href="https://www.umass.edu/resource-economics/"><img src="https://njwsn.github.io/assets/images/umass_full.png"  style="max-width:37%; height:auto;"/></a>
