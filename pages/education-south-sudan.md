@@ -1,6 +1,6 @@
 # Research #
 ## Education in South Sudan ##
-<a href="https://njwsn.github.io/pages/education-south-sudan"> <img src="https://njwsn.github.io/assets/images/education-ss-sd-1344-600.png"/> </a>
+<a href="https://njwsn.github.io/pages/education-south-sudan"> <img src="https://njwsn.github.io/assets/images/education-ss-sd-1344-500.png" style="max-width:100%; height:auto;"/> </a>
 <br><br>
 <p align="center">
 <a href="https://inee.org/data-evidence/ericc"> <img src="https://njwsn.github.io/assets/images/ericc_full2.png" style="max-width:100%; height:auto;"/> </a>
