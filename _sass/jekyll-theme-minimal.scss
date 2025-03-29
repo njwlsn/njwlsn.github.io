@@ -126,6 +126,15 @@ ul.downloads {
   width:270px;
 }
 
+@import "{{ site.theme }}";
+
+.site-logo, .project-logo {
+  border-radius: 50%;
+  overflow: hidden;
+  -webkit-backface-visibility: hidden;
+  -webkit-transform: translate3d(0, 0, 0);
+}
+
 .downloads li {
   width:89px;
   float:left;
