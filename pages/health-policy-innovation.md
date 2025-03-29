@@ -3,7 +3,7 @@
 <a href="https://njwsn.github.io/pages/health-policy-innovation"> <img src="https://njwsn.github.io/assets/images/drugs-procurement-sd-1344-600.png"/> </a>
 <br>
 <p align="center">
-<a href="https://www.ip.mpg.de/en/research/innovation-and-entrepreneurship-research.html"> <img src="https://njwsn.github.io/assets/images/mpi_full.png" width="242px" height="85px"/> </a>  &nbsp;&nbsp;&nbsp; <a href="https://www.umass.edu/resource-economics/"> <img src="https://njwsn.github.io/assets/images/umass_full.png" width="279px" height="85px"/> </a>
+<a href="https://www.ip.mpg.de/en/research/innovation-and-entrepreneurship-research.html"> <img src="https://njwsn.github.io/assets/images/mpi_full.png" width="242px" height="85px"/></a>  &nbsp;&nbsp;&nbsp; <a href="https://www.umass.edu/resource-economics/"><img src="https://njwsn.github.io/assets/images/umass_full.png" width="279px" height="85px"/></a>
 </p>
 During my MSc studies, I worked as a Research Assistant to <a href="https://www.lucyxiaoluwang.com/">Prof. Lucy Xiaolu Wang</a>, first at the Max Planck Institute for Innovation and Competition Department of Innovation and Entrepreneurship Research, and later at the University of Massachusetts Amherst Department of Resource Economics. Prof. Wang's research focuses on the economics of innovation and digitization in healthcare, covering a broad range of different topics including medicines patenting, monitoring, regulation, development, procurement, and scientific collaboration.
 <br><br>
