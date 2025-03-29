@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+img[src*="logo_300hdr.png"] {
+  border-radius: 50%;
+  overflow: hidden;
+  -webkit-backface-visibility: hidden;
+  -webkit-transform: translate3d(0, 0, 0);
+}
