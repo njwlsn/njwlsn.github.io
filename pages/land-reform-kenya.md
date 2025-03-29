@@ -9,5 +9,5 @@ Motivated by my time working in Kenya, my MSc thesis at LMU Munich (supervisor: 
 <br><br>
 ### Working papers ###
 _Wilson, N. (2023). Conflict, Fear, and Mistrust in Kenya’s 'White Highlands'. SSRN Working Paper (May 01, 2023)._ <br>
-<u>Download:</u> [![](https://img.shields.io/badge/SSRN-preprint-154881?logo=ssrn)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4805054)
+<u>Download:</u> [![](https://img.shields.io/badge/SSRN-preprint-154881?logo=ssrn)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4805054) <br>
 *Presented at: University of Edinburgh CAS/CeSeR 2024 Annual Conference and ASAUK Conference 2024.*  
