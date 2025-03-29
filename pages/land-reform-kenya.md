@@ -3,7 +3,7 @@
 <a href="https://njwsn.github.io/pages/land-reform-kenya"> <img src="https://njwsn.github.io/assets/images/land-reform-kenya-sd-1344-500.png" style="max-width:100%; height:auto;"/></a>
 <br>
 <p align="center">
-<a href="https://www.lmu.de/en/"><img src="https://njwsn.github.io/assets/images/lmu_full2.png" style="max-width:30%; height:auto;"/></a>  &nbsp;&nbsp;&nbsp; <a href="https://www.econ.lmu.de/en/"><img src="https://njwsn.github.io/assets/images/econm_full.png"  style="max-width:38%; height:auto;"/></a>
+<a href="https://www.lmu.de/en/"><img src="https://njwsn.github.io/assets/images/lmu_full2.png" style="max-width:28%; height:auto;"/></a>  &nbsp;&nbsp;&nbsp; <a href="https://www.econ.lmu.de/en/"><img src="https://njwsn.github.io/assets/images/econm_full.png"  style="max-width:35%; height:auto;"/></a>
 </p>
 Motivated by my time working in Kenya, my MSc thesis at LMU Munich (supervisor: <a href="http://www.mathiasiwanowsky.com/">Prof. Mathias Bühler</a>) and first solo-authored research paper examines clientelist land reforms in Central Kenya and the Rift Valley. I study two major land redistribution policies - the colonial era 'White Highlands' policy and independence era 'Settlement Schemes' - to examine if and how exposure to these schemes affects 'social violence': conflict, fear, and mistrust. Through empirical analysis of geocoded conflict and survey data, I suggest that the long-run effects of exposure to each scheme differ, with differences driven by the respective histories of land allocation in each. 
 <br><br>
