@@ -20,7 +20,7 @@ _Wagner-Tsoni, I., Akogun, O., Twalihi, E., Hussein, T., Wilson, N., Schots, M.,
 ### Works in progress ###
 _Wilson, N., Bani Ata, M.F., Wagner-Tsoni, I., Dut, K. K. & Akogun, O. (2025). The Animal and the Pen: Revisiting South Sudan’s Pastoralist Education Program. Education Research in Conflict and Protracted Crisis (ERICC)._
 *Presented at: CIES 2024 Conference and BAICE Conference 2024.*  
-<br><br>
+<br>
 _Wilson, N., Hammoudi, I., Bani Ata, M.F., Twalihi, E., & Akogun, O. (2025). Reflections on Participatory Research Approaches with Pastoralists and Policymakers in South Sudan. Education Research in Conflict and Protracted Crisis (ERICC)._
-<br><br>
+<br>
 _Wagner-Tsoni, I., Wilson, N., Schots, M., & Taban, C. (2025). Conflict's Long Shadow: Evidence on Education in Emergencies in South Sudan. Education Research in Conflict and Protracted Crisis (ERICC)._ 
