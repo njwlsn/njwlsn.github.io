@@ -33,8 +33,3 @@ description: >
   </p>
   
 remote_theme: pages-themes/minimal@v0.2.0
-
-google_analytics: G-1SKNP4D4ZZ
-plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # my Google Analytics tracking ID
