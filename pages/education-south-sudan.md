@@ -22,5 +22,5 @@ _Wilson, N., Bani Ata, M.F., Wagner-Tsoni, I., Dut, K. K. & Akogun, O. (2025). T
 *Presented at: CIES 2024 Conference and BAICE Conference 2024.*  
 <br>
 _Wilson, N., Hammoudi, I., Bani Ata, M.F., Twalihi, E., & Akogun, O. (2025). Reflections on Participatory Research Approaches with Pastoralists and Policymakers in South Sudan. Education Research in Conflict and Protracted Crisis (ERICC)._
-<br>
+<br><br>
 _Wagner-Tsoni, I., Wilson, N., Schots, M., & Taban, C. (2025). Conflict's Long Shadow: Evidence on Education in Emergencies in South Sudan. Education Research in Conflict and Protracted Crisis (ERICC)._ 
