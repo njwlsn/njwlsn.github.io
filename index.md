@@ -13,5 +13,4 @@
 ## [Health Policy and Innovation](/pages/health-policy-innovation) <small><i>(as Research Assistant)</i></small> ##
 <a href="https://njwsn.github.io/pages/health-policy-innovation"> <img src="assets/images/drugs-procurement-sd-1344-500.png?raw=true" style="max-width:100%; height:auto;"/></a>
 
-<!-----
- <small><i>Note: The above pictures were produced by <a href="https://beta.dreamstudio.ai/generate">generative AI</a> for illustrative purposes only.</i></small> >
+<!-- <small><i>Note: The above pictures were produced by <a href="https://beta.dreamstudio.ai/generate">generative AI</a> for illustrative purposes only.</i></small> -->
