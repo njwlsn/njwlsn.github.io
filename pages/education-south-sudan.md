@@ -16,11 +16,11 @@ _Wagner-Tsoni, I., Akogun, O., Twalihi, E., Hussein, T., Wilson, N., Schots, M.,
 <u>Download:</u> [![](https://img.shields.io/badge/figshare-paper-556472?logo=figshare)](https://figshare.com/articles/online_resource/ERICC_Working_Paper_Towards_evidence-driven_education_in_emergencies_ERICC_research_agenda_for_South_Sudan/27105616?file=49412566)&nbsp; 
 [![](https://img.shields.io/badge/figshare-brief-556472?logo=figshare)](https://figshare.com/articles/online_resource/ERICC_Technical_Brief_Towards_evidence-driven_education_in_emergencies_ERICC_research_agenda_for_South_Sudan/27139080?file=49643049)
 <br><br>
+_Wagner-Tsoni, I., Wilson, N., Schots, M., & Taban, C. (2024). Conflict's Long Shadow: Evidence on Education in Emergencies in South Sudan. Education Research in Conflict and Protracted Crisis (ERICC Working Paper)._ 
+<br><br>
 
 ### Works in progress ###
 _Wilson, N., Bani Ata, M.F., Wagner-Tsoni, I., Dut, K. K. & Akogun, O. (2025). The Animal and the Pen: Revisiting South Sudan’s Pastoralist Education Program. Education Research in Conflict and Protracted Crisis (ERICC)._<br>
 *Presented at: CIES 2024 Conference and BAICE Conference 2024.*  
 <br>
 _Wilson, N., Hammoudi, I., Bani Ata, M.F., Twalihi, E., & Akogun, O. (2025). Reflections on Participatory Research Approaches with Pastoralists and Policymakers in South Sudan. Education Research in Conflict and Protracted Crisis (ERICC)._
-<br><br>
-_Wagner-Tsoni, I., Wilson, N., Schots, M., & Taban, C. (2025). Conflict's Long Shadow: Evidence on Education in Emergencies in South Sudan. Education Research in Conflict and Protracted Crisis (ERICC)._ 
