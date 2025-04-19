@@ -1,4 +1,4 @@
-# Research #
+# <a href="https://njwsn.github.io/">Research</a> | <a href="https://njwsn.github.io/pages/consulting">Consulting</a> #
 ## Education in South Sudan ##
 <a href="https://njwsn.github.io/pages/education-south-sudan"> <img src="https://njwsn.github.io/assets/images/education-ss-sd-1344-500.png" style="max-width:100%; height:auto;"/> </a>
 <br><br>
