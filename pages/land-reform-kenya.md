@@ -1,4 +1,4 @@
-# Research #
+# <a href="https://njwsn.github.io/">Research</a> | <a href="https://njwsn.github.io/pages/consulting">Consulting</a> #
 ## Land Reform in Kenya ##
 <a href="https://njwsn.github.io/pages/land-reform-kenya"> <img src="https://njwsn.github.io/assets/images/land-reform-kenya-sd-1344-500.png" style="max-width:100%; height:auto;"/></a>
 <br>
