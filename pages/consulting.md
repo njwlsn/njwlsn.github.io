@@ -6,7 +6,7 @@ Development research in East Africa has been my professional focus since 2019. I
 <br><br>
 I have had the pleasure to work on over a dozen research consultancies with governments, UN agencies, (I)NGOs, charities, CSOs, and national development agencies (some depicted above), covering displacement, education, health, and livelihoods. Methodologically, I am a mixed methods researcher with a quantitative orientation and graduate-level training in econometrics and GIS analysis. 
 <br><br>
-Most of my consulting engagements have been in South Sudan, where I have a number of ongoing research projects and a substantial local network, and routinely advise on development program and research project design.
+Most of my consulting engagements have been in South Sudan, where I have a number of ongoing research projects, a substantial local network, and routinely advise on implementation logistics and research design. I have also assisted research undertaken in Kenya, DRC, and Mozambique. 
 <br><br>
 **Please do reach out if you are interested in exploring opportunities for collaboration.**
 <br><br>
