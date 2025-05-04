@@ -1,5 +1,5 @@
 # <a href="https://njwsn.github.io">Research</a> | Consulting # 
-## Consulting Experience ##
+## Development Research ##
 <a href="https://njwsn.github.io/pages/consulting"> <img src="https://njwsn.github.io/assets/images/consulting.png" style="max-width:100%; height:auto;"/> </a>
 <br><br>
 Development research in East Africa has been my professional focus since 2019, working with: UNDP (Kenya, 2019-20), Forcier Consulting (South Sudan, 2022-24), and now OTHERwise Research (remote, 2024-present). I am currently writing a PhD at Nova SBE on development and political economy in East Africa.
