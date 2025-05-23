@@ -8,5 +8,5 @@ I have had the pleasure to work on over a dozen research consultancies with gove
 <br><br>
 Most of my consulting engagements have been in South Sudan, where I have a number of ongoing research projects, a substantial local network, and routinely advise on implementation logistics and research design. I have also assisted research undertaken in Kenya, DRC, and Mozambique. 
 <br><br>
-**Please do <a href="mailto:nj.wilson@outlook.com">reach out</a> if you are interested in exploring opportunities for collaboration.**
+**Please do <a href="mailto:njwsn@outlook.com">reach out</a> if you are interested in exploring opportunities for collaboration.**
 <br><br>
