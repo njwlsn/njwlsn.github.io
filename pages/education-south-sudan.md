@@ -11,8 +11,8 @@ Our work in South Sudan is undertaken in partnership with the Ministry of Genera
 <br><br>
 
 ### Working Papers ###
-_Homunchuk, O., Wilson, N., Fortacz, A., & Kelsall, T. (2024). Political Economy of the South Sudan Education System. Education Research in Conflict and Protracted Crisis (ERICC Working Paper)._ <br>
-<u>Download:</u> [![](https://img.shields.io/badge/figshare-paper-556472?logo=figshare)](https://figshare.com/articles/online_resource/ERICC_Working_Paper_Political_economy_of_education_system_in_coherence_in_South_Sudan/28684181?file=53283110) <u>Download:</u> [![](https://img.shields.io/badge/ODI-blog-0D236D?logo=figshare)](https://odi.org/en/publications/political-economy-of-education-system-incoherence-in-south-sudan/)
+_Homunchuk, O., Wilson, N., Fortacz, A., & Kelsall, T. (2024). Political Economy of the South Sudan Education System. Education Research in Conflict and Protracted Crisis (ERICC Working Paper)/ODI Global._ <br>
+<u>Download:</u> [![](https://img.shields.io/badge/figshare-paper-556472?logo=figshare)](https://figshare.com/articles/online_resource/ERICC_Working_Paper_Political_economy_of_education_system_in_coherence_in_South_Sudan/28684181?file=53283110) [![](https://img.shields.io/badge/ODI-blog-0D236D?logo=figshare)](https://odi.org/en/publications/political-economy-of-education-system-incoherence-in-south-sudan/)
 <br><br> 
 _Wagner Tsoni, I., Akogun, O., Twalihi, E., Hussein, T., Wilson, N., Schots, M., & Dut, K. K. (2024). ERICC: Towards an Evidence-Driven Education in Emergencies Research Agenda for South Sudan. Education Research in Conflict and Protracted Crisis (ERICC Working Paper)._ <br>
 <u>Download:</u> [![](https://img.shields.io/badge/figshare-paper-556472?logo=figshare)](https://figshare.com/articles/online_resource/ERICC_Working_Paper_Towards_evidence-driven_education_in_emergencies_ERICC_research_agenda_for_South_Sudan/27105616?file=49412566)&nbsp; 
