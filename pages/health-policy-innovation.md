@@ -1,9 +1,9 @@
 # <a href="https://njwsn.github.io/">Research</a> | <a href="https://njwsn.github.io/pages/consulting">Consulting</a> #
 ## Health Policy and Innovation  <small><i>(as Research Assistant)</i></small> ##
-<a href="https://njwsn.github.io/pages/health-policy-innovation"> <img src="https://njwsn.github.io/assets/images/drugs-procurement-sd-1344-500.png" style="max-width:100%; height:auto;"/></a>
+<a href="https://njwlsn.github.io/pages/health-policy-innovation"> <img src="https://njwlsn.github.io/assets/images/drugs-procurement-sd-1344-500.png" style="max-width:100%; height:auto;"/></a>
 <br>
 <p align="center">
-<a href="https://www.ip.mpg.de/en/research/innovation-and-entrepreneurship-research.html"> <img src="https://njwsn.github.io/assets/images/mpi_full.png"  style="max-width:32%; height:auto;"/></a>  &nbsp;&nbsp;&nbsp; <a href="https://www.umass.edu/resource-economics/"><img src="https://njwsn.github.io/assets/images/umass_full.png"  style="max-width:37%; height:auto;"/></a>
+<a href="https://www.ip.mpg.de/en/research/innovation-and-entrepreneurship-research.html"> <img src="https://njwlsn.github.io/assets/images/mpi_full.png"  style="max-width:32%; height:auto;"/></a>  &nbsp;&nbsp;&nbsp; <a href="https://www.umass.edu/resource-economics/"><img src="https://njwlsn.github.io/assets/images/umass_full.png"  style="max-width:37%; height:auto;"/></a>
 </p>
 During my MSc studies, I worked as a Research Assistant to <a href="https://www.lucyxiaoluwang.com/">Prof. Lucy Xiaolu Wang</a>, first at the Max Planck Institute for Innovation and Competition Department of Innovation and Entrepreneurship Research, and later at the University of Massachusetts Amherst Department of Resource Economics. 
 <br><br>
