@@ -1,4 +1,4 @@
-# <a href="https://njwsn.github.io">Research</a> | Consulting # 
+# <a href="https://njwlsn.github.io">Research</a> | Consulting # 
 ## Development Research ##
 <a href="https://njwlsn.github.io/pages/consulting"> <img src="https://njwlsn.github.io/assets/images/consulting.png" style="max-width:100%; height:auto;"/> </a>
 <br><br>
@@ -8,5 +8,5 @@ I have had the pleasure to work on over a dozen research consultancies with gove
 <br><br>
 Most of my consulting engagements have been in South Sudan, where I have a number of ongoing research projects, a substantial local network, and routinely advise on implementation logistics and research design. I have also assisted research undertaken in Kenya, DRC, and Mozambique. 
 <br><br>
-**Please do <a href="mailto:njwsn@outlook.com">reach out</a> if you are interested in exploring opportunities for collaboration.**
+**Please do <a href="mailto:njwlsn@outlook.com">reach out</a> if you are interested in exploring opportunities for collaboration.**
 <br><br>
