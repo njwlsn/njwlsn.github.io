@@ -1,4 +1,4 @@
-# <a href="https://njwsn.github.io/">Research</a> | <a href="https://njwsn.github.io/pages/consulting">Consulting</a> #
+# <a href="https://njwlsn.github.io/">Research</a> | <a href="https://njwlsn.github.io/pages/consulting">Consulting</a> #
 ## Health Policy and Innovation  <small><i>(as Research Assistant)</i></small> ##
 <a href="https://njwlsn.github.io/pages/health-policy-innovation"> <img src="https://njwlsn.github.io/assets/images/drugs-procurement-sd-1344-500.png" style="max-width:100%; height:auto;"/></a>
 <br>
