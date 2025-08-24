@@ -25,7 +25,9 @@ _Wagner Tsoni, I., Wilson, N., Schots, M., & Taban, C. (2024). Conflict's Long S
 ### Works in progress ###
 _Jonathan, O., Ekembe, E., Wilson, N., & Borkowski, A. (2025). Education Data Systems in South Sudan: Exploring Challenges in Collection and Connection. Education Research in Conflict and Protracted Crisis (ERICC Working Paper)._ 
 <br><br>
-_Wilson, N., Bani Ata, M.F., Wagner Tsoni, I., Dut, K. K. & Akogun, O. (2025). The Animal and the Pen: Revisiting South Sudan’s Pastoralist Education Program. Education Research in Conflict and Protracted Crisis._ 
+_Wilson, N., Dut, K. K., & Hammoudi, I. (2025). As Above, So Below: Exploring Barriers to Education amidst South Sudan’s Polycrisis. Education Research in Conflict and Protracted Crisis._ 
+<br><br>
+_Wilson, N., Bani Ata, M.F., Wagner Tsoni, I., Dut, K. K., & Akogun, O. (2025). The Animal and the Pen: Revisiting South Sudan’s Pastoralist Education Program. Education Research in Conflict and Protracted Crisis._ 
 <br><br>
 _Wilson, N., Hammoudi, I., Bani Ata, M.F., Twalihi, E., & Akogun, O. (2025). Reflections on Participatory Research Approaches with Pastoralists and Policymakers in South Sudan. Education Research in Conflict and Protracted Crisis._
 <br><br>
