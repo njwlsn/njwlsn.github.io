@@ -2,7 +2,7 @@
 ## Development Research ##
 <a href="https://njwlsn.github.io/pages/consulting"> <img src="https://njwlsn.github.io/assets/images/consulting.png" style="max-width:100%; height:auto;"/> </a>
 <br><br>
-Development research in East Africa has been my professional focus since 2019, working with: UNDP (Kenya, 2019-20), Forcier Consulting (South Sudan, 2022-24), and now OTHERwise Research (remote, 2024-present). I am currently writing a PhD at Nova SBE on state-building in East Africa.
+Development research in East Africa has been my professional focus since 2019, working with: UNDP (Kenya, 2019-20), Forcier Consulting (South Sudan, 2022-24), and now OTHERwise Research (remote, 2024-present). I am currently writing a PhD at Nova SBE on development and political economy in East Africa.
 <br><br>
 I have had the pleasure to work on over a dozen research consultancies with governments, UN agencies, (I)NGOs, charities, and CSOs, covering displacement, education, health and livelihoods. Methodologically, I have a quantitative background with training in econometrics, statistics, and GIS analysis. 
 <br><br>
