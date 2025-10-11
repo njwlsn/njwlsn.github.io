@@ -11,6 +11,9 @@ Our work in South Sudan is undertaken in partnership with the Ministry of Genera
 <br><br>
 
 ### Working Papers ###
+_Jonathan, O., Ekembe, E., Wilson, N., & Borkowski, A. (2025). Education Data Systems in South Sudan: Exploring Challenges in Collection and Connection. Education Research in Conflict and Protracted Crisis (ERICC Working Paper)._ 
+<u>Download:</u> [![](https://img.shields.io/badge/figshare-paper-556472?logo=figshare)](https://figshare.com/articles/online_resource/ERICC_Working_paper_Education_data_systems_in_South_Sudan_Exploring_challenges_in_collection_and_connection/30192664?file=58173997) 
+<br><br>
 _Homunchuk, O., Wilson, N., Fortacz, A., & Kelsall, T. (2024). Political Economy of the South Sudan Education System. Education Research in Conflict and Protracted Crisis (ERICC Working Paper)/ODI Global._ <br>
 <u>Download:</u> [![](https://img.shields.io/badge/figshare-paper-556472?logo=figshare)](https://figshare.com/articles/online_resource/ERICC_Working_Paper_Political_economy_of_education_system_in_coherence_in_South_Sudan/28684181?file=53283110) [![](https://img.shields.io/badge/ODI-blog-0D236D?logo=figshare)](https://odi.org/en/publications/political-economy-of-education-system-incoherence-in-south-sudan/)
 <br><br> 
@@ -23,12 +26,10 @@ _Wagner Tsoni, I., Wilson, N., Schots, M., & Taban, C. (2024). Conflict's Long S
 <br><br>
 
 ### Works in progress ###
-_Jonathan, O., Ekembe, E., Wilson, N., & Borkowski, A. (2025). Education Data Systems in South Sudan: Exploring Challenges in Collection and Connection. Education Research in Conflict and Protracted Crisis (ERICC Working Paper)._ 
+_Wilson, N., Dut, K. K., & Hammoudi, I. As Above, So Below: Exploring Barriers to Education amidst South Sudan’s Polycrisis. Education Research in Conflict and Protracted Crisis (ERICC)._ 
 <br><br>
-_Wilson, N., Dut, K. K., & Hammoudi, I. (2025). As Above, So Below: Exploring Barriers to Education amidst South Sudan’s Polycrisis. Education Research in Conflict and Protracted Crisis._ 
+_Wilson, N., Bani Ata, M.F., Wagner Tsoni, I., Dut, K. K., & Akogun, O. Expanding Access to Education in Crisis Contexts: Evidence from South Sudan`s Pastoralist Education Program. Education Research in Conflict and Protracted Crisis (ERICC)._ 
 <br><br>
-_Wilson, N., Bani Ata, M.F., Wagner Tsoni, I., Dut, K. K., & Akogun, O. (2025). The Animal and the Pen: Revisiting South Sudan’s Pastoralist Education Program. Education Research in Conflict and Protracted Crisis._ 
+_Wilson, N., Hammoudi, I., Bani Ata, M.F., Twalihi, E., & Akogun, O. Reflections on Participatory Research Approaches with Pastoralists and Policymakers in South Sudan. Education Research in Conflict and Protracted Crisis (ERICC)._
 <br><br>
-_Wilson, N., Hammoudi, I., Bani Ata, M.F., Twalihi, E., & Akogun, O. (2025). Reflections on Participatory Research Approaches with Pastoralists and Policymakers in South Sudan. Education Research in Conflict and Protracted Crisis._
-<br><br>
-_Wilson, N., Moses, L., Wagner Tsoni, I., Dut, K. K., Twalihi, E., & Akogun, O. (2025). Uncharted Waters: Climate Crisis, Floods, and Education System Resilience in South Sudan. Education Research in Conflict and Protracted Crisis._
+_Wilson, N., Moses, L., Wagner Tsoni, I., Dut, K. K., Twalihi, E., & Akogun, O. Uncharted Waters: Climate Crisis, Floods, and Education System Resilience in South Sudan. Education Research in Conflict and Protracted Crisis (ERICC)._
