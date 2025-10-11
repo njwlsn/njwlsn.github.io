@@ -11,7 +11,7 @@ Our work in South Sudan is undertaken in partnership with the Ministry of Genera
 <br><br>
 
 ### Working Papers ###
-_Jonathan, O., Ekembe, E., Wilson, N., & Borkowski, A. (2025). Education Data Systems in South Sudan: Exploring Challenges in Collection and Connection. Education Research in Conflict and Protracted Crisis (ERICC Working Paper)._ 
+_Jonathan, O., Ekembe, E., Wilson, N., & Borkowski, A. (2025). Education Data Systems in South Sudan: Exploring Challenges in Collection and Connection. Education Research in Conflict and Protracted Crisis (ERICC Working Paper)._ <br>
 <u>Download:</u> [![](https://img.shields.io/badge/figshare-paper-556472?logo=figshare)](https://figshare.com/articles/online_resource/ERICC_Working_paper_Education_data_systems_in_South_Sudan_Exploring_challenges_in_collection_and_connection/30192664?file=58173997) 
 <br><br>
 _Homunchuk, O., Wilson, N., Fortacz, A., & Kelsall, T. (2024). Political Economy of the South Sudan Education System. Education Research in Conflict and Protracted Crisis (ERICC Working Paper)/ODI Global._ <br>
